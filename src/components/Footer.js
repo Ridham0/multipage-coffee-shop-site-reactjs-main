@@ -34,7 +34,7 @@ const Footer = () => {
         </div>
       </div>
       <hr />
-      <div className="app-footer">Created by <a href="https://autumnchris.github.io/portfolio" target="_blank">Autumn Bullard</a> &copy; {new Date().getFullYear()}</div>
+      <div className="app-footer">Created by <a href="https://autumnchris.github.io/portfolio" target="_blank">Ridham vaghasiya</a> &copy; {new Date().getFullYear()}</div>
     </footer>
   );
 }
